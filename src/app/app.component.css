@@ -1,0 +1,26 @@
+:host {
+  display: flex;
+  flex: 1;
+}
+
+md-sidenav {
+  width: 320px;
+}
+
+.content {
+  padding: 12px;
+}
+
+.divcls {
+    background-color: lightblue;
+}
+.example-card {
+    display: inline-block;
+    width: 30%;
+    margin: 20px;
+    vertical-align: top;
+    cursor: pointer;
+}
+
+.card-media {
+  background-color: #999999; }
